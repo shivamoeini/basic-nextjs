@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "../styles/globals.css"
 const RootLayout = ({children}) => {
   return (
     <html lang='fa-IR'>

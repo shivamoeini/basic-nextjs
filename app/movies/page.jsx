@@ -1,8 +1,9 @@
 import React from 'react'
+import style from "./style.module.css"
 
 const Movies = () => {
   return (
-    <div>page Movies</div>
+    <div  className={style.textstyle}>page Movies</div>
   )
 }
 
