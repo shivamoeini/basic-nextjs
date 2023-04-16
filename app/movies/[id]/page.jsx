@@ -2,7 +2,7 @@ import React from 'react'
 
 const Single = () => {
   return (
-    <div>1 movies</div>
+    <p className=" hover:text-amber-600">1 movies</p>
   )
 }
 
